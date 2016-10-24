@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomUi</string>
+    <string name="test_self">test_self</string>
 </resources>
